@@ -1,0 +1,1 @@
+{"name":"NUR 774 Exam 3 Mnemonics","kind":"document","runtime":"python3 + playwright","run_cmd":"python3 build.py && node pdf.cjs"}
